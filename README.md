@@ -32,7 +32,7 @@ Logos das marcas: repositório `car-logos-dataset` (licença MIT; as logos perte
 
 ## Vídeo de demonstração
 
-`demo/demo.mp4`
+[Assistir ao vídeo de demonstração](demo/demo.mp4)
 
 ## Como executar
 
